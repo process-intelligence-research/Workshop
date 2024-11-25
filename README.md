@@ -36,3 +36,7 @@ This repository is open-source and available under the MIT License. Feel free to
 
 <p align="left">
 <a href="https://twitter.com/ASchweidtmann" target="blank"><img align="center" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="fernandezbap" /></a>
+</p>
+<p align="left">
+<a href="https://www.linkedin.com/in/schweidtmann/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  /></a>
+</p>
