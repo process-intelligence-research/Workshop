@@ -1,4 +1,4 @@
-# Workshop
+# PhD school of logistics workshop: Implementing neural networks with torch
 
 
 ## Run code online
