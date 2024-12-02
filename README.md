@@ -15,6 +15,8 @@ Tutorial 1: [![Open in Colab](https://colab.research.google.com/assets/colab-bad
 
 Tutorial 2: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/process-intelligence-research/Workshop/blob/main/Lab1-2_Molecules.ipynb)
 
+Tutorial 3: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/process-intelligence-research/Workshop/blob/main/Lab1-3_AdvancedNN.ipynb)
+
 ## Getting Started and run code locally
 
 1. Clone this repository to your local machine:
